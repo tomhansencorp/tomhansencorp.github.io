@@ -1,4 +1,4 @@
-## Kale Coin
+# Kale Coin
 
 Official website for Kale Coin token.
 
@@ -21,7 +21,7 @@ Token Address: 0x644afd905ad53a2540358e209528eb1dc4044450
 
 Development is still underway.
 
-# Future outlook
+## Future outlook
 
 - PancakeSwap listing
 - UnicornSwap Listing
