@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Kale Coin
 
-You can use the [editor on GitHub](https://github.com/tomhansencorp/tomhansencorp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Official website for Kale Coin token.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+View on [etherscan](https://etherscan.io/token/0x644afd905ad53a2540358e209528eb1dc4044450).
 
-### Markdown
+### About this coin
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Token Name:		KALE COIN
+Token Symbol:		KALE
+Token Decimal:		18
+Tokens Circulating:	69420000000000000000000
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Development is still underway.
 
-### Jekyll Themes
+# Future outlook
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomhansencorp/tomhansencorp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- PancakeSwap listing
+- UnicornSwap Listing
+- Social Media Sites
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thoughts and considerations can be directed towards tomhansencorp@gmail.com
